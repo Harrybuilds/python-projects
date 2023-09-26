@@ -9,13 +9,13 @@
 
 ### classes and and their attributes used  
 * __MenuItem__ - for creating items to be added to the menu  
-	  *### methods  
+	  * ### methods  
 	       * ___init__ : instance method that initialises a new MenuItem object  
-	  *### attributes
+	  * ### attributes
 	       * name, water, milk, coffee, cost
 
 * __Menu__ - for creating object(s) thats has MenuItem objects as it attributes
-      *### methods
+      * ### methods
       	   * __init__ : instance method that initialises a new Menu Object  
 	   * get_items : instance method to get names of all available items in the menu and return them as a string  
 	   * find_item : instance method to search and return a MenuItem object in the Menu object if found else returns None
