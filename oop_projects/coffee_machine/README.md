@@ -11,7 +11,7 @@
 * __MenuItem__ - for creating items to be added to the menu  
   	       - __methods__  
 	       - ___init__ : instance method that initialises a new MenuItem object  
-	  * __attributes__
+	  * __attributes__  
 	       * name, water, milk, coffee, cost
 
 * __Menu__ - for creating object(s) thats has MenuItem objects as it attributes
