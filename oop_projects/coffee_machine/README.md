@@ -31,8 +31,8 @@
     * report : instance method to return the availabe resource in the coffee machine as at when called upon  
     * is_resource_sufficient : instance method to check if resource in coffee machine is enough to for the requested coffee. returns True if resource is sufficient else False   
     * make_coffee : instance method to make the coffee
- * __attributes__  
-   - __none__
+  * __attributes__  
+    - __none__
 
 
 - __MoneyMachine__ - class for creating object(s) that handles and processes payment. payments are collected in coins
