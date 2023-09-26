@@ -21,7 +21,7 @@
 	   * find_item : instance method to search and return a MenuItem object in the Menu object if found else returns None
 	   * items_list : instance method to get names of all available items in the menu and return them as a list(defined by me)
 
-      *### attributes
+      * ### attributes
       	   * menu : a list containing MenuItem objects
       	   
 	   
