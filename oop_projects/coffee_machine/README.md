@@ -10,7 +10,9 @@
 ### classes and and their attributes used
 - __MenuItem__ - for creating items to be added to the menu
   - __methods__
-    - __init__ : instance method that initialises a new MenuItem object  
+    - __init__ : instance method that initialises a new MenuItem object
+  - __attributes__
+    * name, water, milk, coffee, cost
 - __Menu__
 - __CoffeeMaker__
 - __MoneyMachine__
@@ -21,8 +23,7 @@
 * __MenuItem__ 
   	        
 	       - 
-	  * __attributes__  
-	       * name, water, milk, coffee, cost
+	  * 
 
 * __Menu__ - for creating object(s) thats has MenuItem objects as it attributes  
       * __methods__  
