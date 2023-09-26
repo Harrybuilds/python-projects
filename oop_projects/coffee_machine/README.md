@@ -14,11 +14,11 @@
   - __attributes__
     * name, water, milk, coffee, cost
 - __Menu__ - for creating object(s) thats has MenuItem objects as it attributes
-  * __methods__  
-        * __init__ : instance method that initialises a new Menu Object  
-    	* get_items : instance method to get names of all available items in the menu and return them as a string  
-    	* find_item : instance method to search and return a MenuItem object in the Menu object if found else returns None  
-    	* items_list : instance method to get names of all available items in the menu and return them as a list(defined by me)  
+  * __methods__
+    * __init__ : instance method that initialises a new Menu Object  
+    * get_items : instance method to get names of all available items in the menu and return them as a string  
+    * find_item : instance method to search and return a MenuItem object in the Menu object if found else returns None  
+    * items_list : instance method to get names of all available items in the menu and return them as a list(defined by me)  
   * **attributes**
 	* menu : a list containing MenuItem objects
 
