@@ -44,5 +44,3 @@
   - __attributes__  
     - CURRENCY : class constant attribute that represent the currency  
     - COIN_VALUES : class constant attribute that represent the values of each coin  
-  - __attributes__
-    - __none__
