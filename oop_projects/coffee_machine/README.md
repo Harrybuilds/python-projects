@@ -9,7 +9,7 @@
 
 ### classes and and their attributes used  
 * __MenuItem__ - for creating items to be added to the menu  
-	  * ### methods  
+  	       ### * methods  
 	       * ___init__ : instance method that initialises a new MenuItem object  
 	  * ### attributes
 	       * name, water, milk, coffee, cost
