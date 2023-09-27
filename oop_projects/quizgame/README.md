@@ -21,9 +21,9 @@
     - __check_answer__ : instance method that evaluate the reply to the question reply
     - __should_continue__ : instance method that checks if there's more question to be asked or not. NOTE: the quiz game can work just fine without using this method
   - _attributes_
-   - question_number : instance attribute that holds the number of the next question to be asked
-   - question_list : instance attribute that holds a list containing question objects
-   - score : instance attribute that holds the total number of correct answer gotten from answering the question
+    - question_number : instance attribute that holds the number of the next question to be asked
+    - question_list : instance attribute that holds a list containing question objects
+    - score : instance attribute that holds the total number of correct answer gotten from answering the question
 
 
 ### Question bank
